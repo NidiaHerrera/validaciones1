@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe.config
+C:\Users\User\source\repos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe
+C:\Users\User\source\repos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.pdb
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Form1.resources
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Properties.Resources.resources
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.exe
+C:\Users\User\source\repos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.pdb
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe.config
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.pdb
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csprojAssemblyReference.cache
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Form1.resources
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Properties.Resources.resources
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.GenerateResource.cache
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.exe
+C:\Users\wilso\Documents\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.pdb
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe.config
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.exe
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\bin\Debug\clases y objetos.pdb
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csprojAssemblyReference.cache
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Form1.resources
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases_y_objetos.Properties.Resources.resources
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.GenerateResource.cache
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.csproj.CoreCompileInputs.cache
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.exe
+C:\programacionIIItri\clases y objetos\clases y objetos\clases y objetos\obj\Debug\clases y objetos.pdb
